@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ip-finder-new/static/css/main.58589d76.chunk.css",
+    "main.js": "/ip-finder-new/static/js/main.f7601bcb.chunk.js",
+    "main.js.map": "/ip-finder-new/static/js/main.f7601bcb.chunk.js.map",
+    "runtime-main.js": "/ip-finder-new/static/js/runtime-main.f72dd2fa.js",
+    "runtime-main.js.map": "/ip-finder-new/static/js/runtime-main.f72dd2fa.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ip-finder-new/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.97fc16a6.chunk.js": "/ip-finder-new/static/js/2.97fc16a6.chunk.js",
+    "static/js/2.97fc16a6.chunk.js.map": "/ip-finder-new/static/js/2.97fc16a6.chunk.js.map",
+    "static/js/3.6ae432bb.chunk.js": "/ip-finder-new/static/js/3.6ae432bb.chunk.js",
+    "static/js/3.6ae432bb.chunk.js.map": "/ip-finder-new/static/js/3.6ae432bb.chunk.js.map",
+    "index.html": "/ip-finder-new/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ip-finder-new/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.58589d76.chunk.css.map": "/ip-finder-new/static/css/main.58589d76.chunk.css.map",
+    "static/js/2.97fc16a6.chunk.js.LICENSE.txt": "/ip-finder-new/static/js/2.97fc16a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f72dd2fa.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.97fc16a6.chunk.js",
+    "static/css/main.58589d76.chunk.css",
+    "static/js/main.f7601bcb.chunk.js"
+  ]
+}
